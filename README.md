@@ -11,12 +11,20 @@ This project demonstrates how to use the Pandas library for data analysis and Ma
 ## 📂 Project Structure
 sales-data-analysis/
 ├── data/
+|
 │ └── sales_data.csv
+|
 ├── outputs/
-│ └── generated charts
+|
+│ | 
+| └── generated charts
+|
 ├── src/
+| |
 │ └── analysis.py
+|
 ├── README.md
+|
 ├── requirements.txt
 
 ## 📊 Analysis Performed
